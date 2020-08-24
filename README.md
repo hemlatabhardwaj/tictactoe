@@ -1,5 +1,5 @@
 # tictactoe
-#Classic tictactoe game
+#Classic tictactoe game played by two players using 'X' and 'O' as inputs on a 3*3 board
 
 from IPython.display import clear_output
 
